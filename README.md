@@ -1,4 +1,4 @@
-# CNC Quotation API 🚀
+# CNC Quotation API
 [![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)](https://fastapi.tiangolo.com/)
 
 ## Overview
